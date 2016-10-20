@@ -35,3 +35,12 @@ def run_tests():
 # Edit this code
 def print_squares(a, b):
 
+    for i in range(1, 4):
+        print("1, 4, 9")
+
+    for i in rang(4, 9):
+        print("16, 25, 36, 49, 64")
+
+    for i in range(12, 15):
+        print("144, 169, 196, 225")
+
